@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">A software developer from Blackpool, UK</h3>
 
-- 🔭 I’m currently work @ [Interactive Investor](www.ii.co.uk)
+<p align="center"> 💻 I’m currently working @ <a href="www.ii.co.uk">Interactive Investor</a></p>
 
-- 📫 How to reach me **smccarrick2804@gmail.com**
+<p align="center"> 📫 Reach me @ smccarrick2804@gmail.com </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
