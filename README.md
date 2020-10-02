@@ -5,11 +5,10 @@
 
 <p align="center"> 📫 Reach me @ smccarrick2804@gmail.com </p>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+
 <a href="https://linkedin.com/in/stephen-mccarrick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephen-mccarrick" height="30" width="40" /></a>
 <a href="https://instagram.com/stephenmccarrick_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stephenmccarrick_" height="30" width="40" /></a>
 <a href="https://medium.com/@smccarrick2804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@smccarrick2804" height="30" width="40" /></a>
-</p>
+
 
 
