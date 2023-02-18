@@ -3,7 +3,7 @@
 
 <p align="center"> 💻  I’m currently working at <a href="www.ii.co.uk">Interactive Investor</a></p>
 
-<p align="center"> 📫  Reach me smccarrick2804@gmail.com </p>
+<p align="center"> 📫  Reach me at smccarrick2804@gmail.com </p>
 
 
 
